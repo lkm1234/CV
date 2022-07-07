@@ -1,1 +1,1 @@
-### These are my testimonials for competitions and scholarships
+### These are testimonials for my competitions and scholarships.
