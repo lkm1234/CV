@@ -18,7 +18,7 @@
 
 ### Academic Performance 
 ```markdown
-GPA: 3.93/4.3;  GPA Rank: 2/49
+GPA: 3.93/4.3 | GPA Rank: 2/49 | TOEFL: 99
 
 Core Courses in University of California, Berkeley:
 Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton
@@ -66,5 +66,11 @@ Xi'an Jiaotong University's Academic Scholarship                                
   
 ### Skills and Qualifications
 ```markdown 
+-Great public speaking ability
+-Great teamwork ability
+-Great Research and analysis ability
+-Computing skills: Fluent Python and Matlab skills
+-Language: Chinese(native fluency), English (proficient in reading and speaking)
+```
 
 
