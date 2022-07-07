@@ -1,11 +1,11 @@
 <h3 align="center">
   Kaiming Liu
 <h4 align="center">
-  Address: Xi'an Jiaotong University; City: Xi'an; Province: ShaanXi; Country: China; 
+  Address: Xi'an Jiaotong University | City: Xi'an | Province: ShaanXi | Country: China 
 <h4 align="center">  
-  Zip code: 710049; Country Code: 86
+  Zip code: 710049 | Country Code: 86
 <h4 align="center">
-  Phone: +86 13625528915; Email address: lkm20020411@stu.xjtu.edu.cn
+  Phone: +86 13625528915 | Email address: lkm20020411@stu.xjtu.edu.cn
 </h4>
  
 ### Education 
