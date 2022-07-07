@@ -70,6 +70,7 @@ Xi'an Jiaotong University's Academic Scholarship                                
 -Great teamwork ability
 -Great Research and analysis ability
 -Computing skills: Fluent Python and Matlab skills
+ I took Introduction to Computational Techniques in Physics in UC, Berkeley, and I got A.
 -Language: Chinese(native fluency), English (proficient in reading and speaking)
 ```
   
