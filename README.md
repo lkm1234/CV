@@ -43,9 +43,9 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
    evaporating molecules onto the surface of sample, using mechanic pump, turbo pump and ion pump to 
    get ultra high vacuum, baking the Scanning Tunneling Microscopy system to remove impurity molecules, 
    refilling liquid Helium and liquid Nitrogen, using STM to scan the Graphene nanoribons, repairing 
-   the tip to get higher resolution image.
+   the tip to get higher resolution images.
 3. I helped Graduate Ziyi Wang to do some data analysis work. I use python to analyze experimental data
-   and to make plot.
+   and make plot.
 ```
 
 ### Awards
@@ -71,6 +71,13 @@ Xi'an Jiaotong University's Academic Scholarship                                
 -Great Research and analysis ability
 -Computing skills: Fluent Python and Matlab skills
 -Language: Chinese(native fluency), English (proficient in reading and speaking)
+```
+  
+### Interests and hobbies
+```markdown
+-Rubik's cube (semi-professional level)
+-table tennis
+-jogging
 ```
 
 
