@@ -33,6 +33,7 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
   
 ### Research Experience 
 ```markdown
+Research one
 10/2021-12/2021.     The Crommie Group, University of California, Berkeley
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
 
@@ -47,6 +48,16 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
 3. I helped Graduate Ziyi Wang to do some data analysis work. I use python to analyze experimental data
    and make plot.
 ```
+```markdown
+Research two
+03/2022-Now          Prof. Yongchang Zhang's Group, Xi'an Jiaotong University
+Mentor: Professor Yongchang Zhang, Graduate Rong Ma
+  
+1.Contributed to a team of researchers aming to use Rydberg atoms to achieve the function of qubit.
+2.I derived  Multi-Rydberg-atom system interaction Hamiltonian matrices, and I used Matlab to solve the eigenvalues, eigenvectors, and the final drawing Energy-distance picture of this system, which reproduced the results of Soft Core in this paper.
+  Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms." Physical Review A 82.3 (2010): 033412.
+3.Recent work: I am going to deriving the dark state of Multi-Rydberg-atom system, and plug this dark state into Maxwell Bloch Equation, then we can get the space-time evolution equation of the dark state. By numerically solving the difference equation, we can get the evolution image of the dark state over time and space. We expect to get lower lateral diffusion and higher transmittance by adjusting parameters such as decay rate, length of resonant cavity, etc.
+
 
 ### Awards
 ```markdown
@@ -80,5 +91,7 @@ Xi'an Jiaotong University's Academic Scholarship                                
 -table tennis
 -jogging
 ```
+  
+
 
 
