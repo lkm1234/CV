@@ -57,7 +57,7 @@ Mentor: Professor Yongchang Zhang, Graduate Rong Ma
 2.I derived  Multi-Rydberg-atom system interaction Hamiltonian matrices, and I used Matlab to solve the eigenvalues, eigenvectors, and the final drawing Energy-distance picture of this system, which reproduced the results of Soft Core in this paper.
   Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms." Physical Review A 82.3 (2010): 033412.
 3.Recent work: I am going to deriving the dark state of Multi-Rydberg-atom system, and plug this dark state into Maxwell Bloch Equation, then we can get the space-time evolution equation of the dark state. By numerically solving the difference equation, we can get the evolution image of the dark state over time and space. We expect to get lower lateral diffusion and higher transmittance by adjusting parameters such as decay rate, length of resonant cavity, etc.
-
+```
 
 ### Awards
 ```markdown
