@@ -46,7 +46,7 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
    refilling liquid Helium and liquid Nitrogen, using STM to scan the Graphene nanoribons, repairing 
    the tip to get higher resolution images.
 3. I helped Graduate Ziyi Wang to do some data analysis work. I use python to analyze experimental data
-   and make plot.
+   and make plots.
 ```
 ```markdown
 Research two
