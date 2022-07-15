@@ -35,7 +35,7 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
 ### Research Experience 
 #### Research one
 ```markdown
-10/2021-12/2021.     The Crommie Group, University of California, Berkeley
+10/2021-12/2021.                                 The Crommie Group, University of California, Berkeley
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
 
 1. Contributed to a team of researhers aiming to use Scanning Tunneling Microscopy to analyze Graphene
@@ -51,7 +51,7 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
 ```
 #### Research two
 ```markdown
-03/2022-Now          Prof. Yongchang Zhang's Group, Xi'an Jiaotong University 
+03/2022-Now                                   Prof. Yongchang Zhang's Group, Xi'an Jiaotong University 
 Mentor: Professor Yongchang Zhang, Graduate Rong Ma 
   
 1. Contributed to a team of researchers aming to use Rydberg atoms to achieve the function of qubit. 
