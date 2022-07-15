@@ -10,27 +10,26 @@
  
 ### Education 
 
-09/2017 - 06/2019: School of the Gifted Young of Xi’an Jiaotong University <br/>                             
-09/2019 - 06/2021: Undergraduate in Xi’an Jiaotong University, Physics department <br/>
+09/2017 - 06/2019: **School of the Gifted Young of Xi’an Jiaotong University**                            
+09/2019 - 06/2021: Undergraduate in Xi’an Jiaotong University, **The special class for gifted physics majors**, Physics department <br/>
 08/2021 - 12/2021: Visiting student in University of California, Berkeley, Physics department <br/>
-01/2022 – Now    : Undergraduate in Xi’an Jiaotong University, Physics department <br/>
+01/2022 – Now    : Undergraduate in Xi’an Jiaotong University, **The special class for gifted physics majors**, Physics department <br/>
 <br/>
-**NOTE:**The Special Class for the Gifted Young is a program aimed to select gifted young students to enter the universities in China. Please refer to this link for details:[Special Class for the Gifted Young - Wikipedia](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)
+**NOTE**: The Special Class for the Gifted Young is a program aimed to select gifted young students to enter the universities in China. Please refer to this link for details: [Special Class for the Gifted Young - Wikipedia](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)
   
 
 ### Academic Performance 
-```markdown
-GPA: 3.93/4.3 | GPA Rank: 2/49 | TOEFL: 99
+GPA: 3.78/4 | Avg Score: 90.88/100 | GPA Rank: 2/49 | TOEFL: 99 (R28,L27,S23,W20)<br/>
 
-Core Courses in University of California, Berkeley:
-Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton
-Introduction to Statistical and Thermal Physics (A)                    Teacher: Professor Ehud Altman
-Introduction to Computational Techniques in Physics (A)                Teacher: Asst. Prof. Heather Grey
+Core Courses in University of California, Berkeley: <br/>
+Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton <br/>
+Introduction to Statistical and Thermal Physics (A)                    Teacher: Professor Ehud Altman <br/>
+Introduction to Computational Techniques in Physics (A)                Teacher: Asst. Prof. Heather Grey <br/>
 
-Core Courses in Xi’an Jiaotong Univeristy:
-Calculus-2 (95/100),Thermal Physics (98/100), Atomic Physics (97/100),
-Probability Theory (96/100), Optics (95/100), Basic Physical Experiment (98/100), 
-Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/100)
+Core Courses in Xi’an Jiaotong Univeristy: <br/>
+Calculus-2 (95/100),Thermal Physics (98/100), Atomic Physics (97/100), <br/>
+Probability Theory (96/100), Optics (95/100), Basic Physical Experiment (98/100), <br/>
+Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/100) <br/>
 ```
   
 ### Research Experience 
