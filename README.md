@@ -34,7 +34,7 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
 ### Research Experience 
 ```markdown
 Research one
-10/2021-12/2021.     **The Crommie Group, University of California, Berkeley**
+10/2021-12/2021.     <strong>The Crommie Group, University of California, Berkeley</strong>
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
 
 1. Contributed to a team of researhers aiming to use Scanning Tunneling Microscopy to analyze Graphene
