@@ -68,7 +68,13 @@ Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms."
    such as decay rate, length of resonant cavity, etc. 
 ```
 
-### Awards
+### Publication
+```markdown
+1. 刘铠铭, 周亚杰, 赵述敏, 王红理. 流体悬浮及其稳定性探究. 物理实验. 2021.
+```
+  
+
+### Selected honor
 ```markdown
 Northwestern area of China Undergrduate Physics tournament (The First Prize)                       06/2019
 China Undergraduate Physics Tournament (Outstanding Team: top 4 team of China)                     08/2019
