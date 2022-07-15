@@ -8,7 +8,7 @@
   Phone: +86 13625528915 | Email address: lkm20020411@stu.xjtu.edu.cn
 </h4>
  
-### Education 
+### Education Background
 09/2017 - 06/2019: **School of the Gifted Young of Xi’an Jiaotong University**                            
 09/2019 - 06/2021: Undergraduate in Xi’an Jiaotong University, **The special class for gifted physics majors**, Physics department <br/>
 08/2021 - 12/2021: Visiting student in University of California, Berkeley, Physics department <br/>
