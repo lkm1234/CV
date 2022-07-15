@@ -30,10 +30,8 @@ Core Courses in Xi’an Jiaotong Univeristy: <br/>
 Calculus-2 (95/100),Thermal Physics (98/100), Atomic Physics (97/100), <br/>
 Probability Theory (96/100), Optics (95/100), Basic Physical Experiment (98/100), <br/>
 Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/100) <br/>
-```
   
 ### Research Experience 
-```markdown
 Research one
 10/2021-12/2021.     The Crommie Group, University of California, Berkeley
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
