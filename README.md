@@ -19,7 +19,7 @@
 
 ### Academic Performance 
 ```markdown
-GPA: 3.78 / 4 | Avg Score: 90.88 / 100 | GPA Rank: 2 / 49 | TOEFL: 99 (R28,L27,S23,W20)
+GPA: 3.78/ 4 | Avg Score: 90.88/ 100 | GPA Rank: 2/ 49 | TOEFL: 99 ( R28, L27, S23, W20 )
 
 Core Courses in University of California, Berkeley: 
 Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton 
