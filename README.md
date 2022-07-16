@@ -40,12 +40,20 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
 
 1. Contributed to a team of researhers aiming to use Scanning Tunneling Microscopy to analyze Graphene
    nanoribbons to look for their interesting physical properties.
-2. Mastered many experiment skills such as making Graphene nanoribbon samples, transfering samples,
-   annealing, sputtering, deposition, hot substrate deposition, loading molecules into the evaporator, 
-   evaporating molecules onto the surface of sample, using mechanic pump, turbo pump and ion pump to 
-   get ultra high vacuum, baking the Scanning Tunneling Microscopy system to remove impurity molecules, 
-   refilling liquid Helium and liquid Nitrogen, using STM to scan the Graphene nanoribons, repairing 
-   the tip to get higher resolution images.
+2. Mastered many experiment skills such as 
+   using bottom-up approach and MAD method to make Graphene nanoribbon samples, 
+   transfering samples,
+   annealing, 
+   sputtering, 
+   deposition, 
+   hot substrate deposition, 
+   loading molecules into the evaporator, 
+   evaporating molecules onto the surface of sample, 
+   using mechanic pump, turbo pump and ion pump to get ultra high vacuum, 
+   baking the Scanning Tunneling Microscopy system to remove impurity molecules, 
+   refilling liquid Helium and liquid Nitrogen, 
+   using STM to scan the Graphene nanoribons, 
+   repairing the tip to get higher resolution images.
 3. I helped Graduate Ziyi Wang to do some data analysis work. I use python to analyze experimental data
    and make plots.
 ```
