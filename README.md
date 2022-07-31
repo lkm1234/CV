@@ -11,7 +11,7 @@
 ### Education Background
 09/2017 - 06/2019: **School of the Gifted Young of Xi’an Jiaotong University**                            
 09/2019 - 06/2021: Undergraduate in Xi’an Jiaotong University, **The special class for gifted physics majors**, Physics department <br/>
-08/2021 - 12/2021: Visiting student in University of California, Berkeley, Physics department <br/>
+08/2021 - 12/2021: **Visiting student in University of California, Berkeley, Physics department** <br/>
 01/2022 – Now    : Undergraduate in Xi’an Jiaotong University, **The special class for gifted physics majors**, Physics department <br/>
 <br/>
 **NOTE**: The Special Class for the Gifted Young is a program aimed to select gifted young students to enter the universities in China. Please refer to this link for details: [Special Class for the Gifted Young - Wikipedia](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)
@@ -19,7 +19,8 @@
 
 ### Academic Performance 
 ```markdown
-GPA: 3.78/ 4 | Avg Score: 90.88/ 100 | GPA Rank: 2/ 49 | TOEFL: 99 ( R28, L27, S23, W20 )
+XJTU        :   GPA: 3.75/ 4 | Avg Score: 90.23/ 100 | GPA Rank: 2/ 49 | TOEFL: 99 ( R28, L28, S23, W20 )
+UC, Berkeley:   GPA:   4 / 4 | Avg level: A           
 
 Core Courses in University of California, Berkeley: 
 Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton 
