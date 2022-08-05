@@ -85,8 +85,21 @@ Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms."
 ### Publication
 ```markdown
 1. 刘铠铭, 周亚杰, 赵述敏, 王红理. 流体悬浮及其稳定性探究. 物理实验. 2021.           
-   (This is a Chinese Journal, and I am the first author. The Chinese name of this article is 流体悬浮及其稳定性探究, you can Control+C, Control+V, and search it in google scholar. You can find it, but this article requires a Chinese university account to download. What's more, this only have a Chinese Version. So I use google translate to tralslate this article 'maybe there are some grammatical mistake, but you can understand the main work of this article', and I upload both Chinese version and English version in my CV website) The China Undergraduate Physics Tournament give students an open-minded question, and students need to choose one of them, and do research by oneself. This is my first independent research, I use almost one year to finish this question (because the competition cycle is one year), and I use another one year to write paper and submit to the Journal  
-2. (the five-member rings work is going to be submited to Nat. Commun or Science Advances)
+   (This is a Chinese Journal, and I am the first author. The Chinese name of this article is 流体悬浮及其稳定性探究, 
+   you can Control+C, Control+V, and search it in google scholar. You can find it, but this article requires a 
+   Chinese university's account to download. What's more, this paper only have a Chinese Version. So I use google 
+   translate to tralslate this article 'maybe there are some grammatical mistake, but you can understand the main 
+   work of this article', and I upload both Chinese version and English version in my CV website) The China 
+   Undergraduate Physics Tournament gave students an open-minded question, and students need to choose one of them, 
+   and do research by oneself. This was my first independent research, I start it in 2019(17 years old). I used 
+   almost one year to solve this question and do experiments (because the competition cycle is one year), and I use 
+   another one year to write paper, submit it to the Journal, and revise it. Many things are the first time for me 
+   to try, and the process is very difficult and time-consuming. 
+   From my current perspective, the content of this article is very naive, and many methods are not rigorous. 
+   However, this independent research process has greatly improved my scientific research ability, so that I have 
+   been able to make a contribution to Prof. Crommie's Group in UC, Berkeley.
+  
+2. (the five-member rings work (in UC, Berkeley) is going to be submited to Nat. Commun or Science Advances)
 ```
   
 
