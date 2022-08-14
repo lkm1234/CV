@@ -1,4 +1,5 @@
-![image](https://github.com/lkm1234/CV/blob/gh-pages/images/portrait.jpg)
+<h3 align="center">
+  ![image](https://github.com/lkm1234/CV/blob/gh-pages/images/portrait.jpg)
 <h3 align="center">
   Kaiming Liu
 <h4 align="center">
