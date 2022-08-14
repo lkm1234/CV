@@ -38,7 +38,8 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
 
 ### Research Experience 
 #### Research in UC, Berkeley
-  ![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+  ![image](https://github.com/lkm1234/CV/blob/gh-pages/images/Kaiming%20tightening%20a%20flange.png)
+  I am tightening a flange
 ```markdown
 10/2021-12/2021.                                 The Crommie Group, University of California, Berkeley
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
@@ -85,10 +86,10 @@ Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms."
    time and space. We expect to get lower lateral diffusion and higher transmittance by adjusting parameters 
    such as decay rate, length of resonant cavity, etc. 
 ```
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/lkm1234/CV/blob/gh-pages/images/z%3D0%20and%202D.png)
+![image](https://github.com/lkm1234/CV/blob/gh-pages/images/z%3D0%20and%203D.png)
+![image](https://github.com/lkm1234/CV/blob/gh-pages/images/y%3D0%20and%202d.png)
+![image](https://github.com/lkm1234/CV/blob/gh-pages/images/y%3D0%20and%203D.png)
   
 ### Publication
 ```markdown
