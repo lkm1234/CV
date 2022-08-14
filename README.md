@@ -22,8 +22,8 @@
 
 ### Academic Performance 
 ```markdown
-XJTU        :   GPA: 3.75/ 4 | Avg Score: 90.23/ 100 | GPA Rank: 2/ 49 | TOEFL: 99 ( R28, L28, S23, W20 )
-UC, Berkeley:   GPA:   4 / 4 | Avg level: A           
+Xi'an Jiaotong University   : GPA: 3.75/ 4 (3.87 / 4.3) | Avg Score: 90.28/ 100 | GPA Rank: 2/ 49 | TOEFL: 99 ( R28, L28, S23, W20 )
+UC, Berkeley                : GPA:   4 / 4              | Avg level: A           
 
 Core Courses in University of California, Berkeley: 
 Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton 
@@ -37,7 +37,8 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
 ```
 
 ### Research Experience 
-#### Research one
+#### Research in UC, Berkeley
+  ![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 ```markdown
 10/2021-12/2021.                                 The Crommie Group, University of California, Berkeley
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
@@ -66,7 +67,7 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
    project3-a New Chervon type Graphene nanoribbon: want to achieve programmable fabrication of GNR
    If your are interested in these projects, we can have schedule a zoom meeting to have a chat.
 ```
-#### Research two
+#### Research in Xi'an Jiaotong University
 ```markdown
 03/2022-Now                                   Prof. Yongchang Zhang's Group, Xi'an Jiaotong University 
 Mentor: Professor Yongchang Zhang, Graduate Rong Ma 
@@ -84,7 +85,11 @@ Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms."
    time and space. We expect to get lower lateral diffusion and higher transmittance by adjusting parameters 
    such as decay rate, length of resonant cavity, etc. 
 ```
-
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+  
 ### Publication
 ```markdown
 1. 刘铠铭, 周亚杰, 赵述敏, 王红理. 流体悬浮及其稳定性探究. 物理实验. 2021.           
