@@ -1,7 +1,6 @@
+![image](https://github.com/lkm1234/CV/blob/gh-pages/images/portrait.jpg)
 <h3 align="center">
   Kaiming Liu
-  
-  ![image](https://github.com/lkm1234/CV/blob/gh-pages/images/portrait.jpg)
 <h4 align="center">
   Address: Xi'an Jiaotong University | City: Xi'an | Province: ShaanXi | Country: China 
 <h4 align="center">  
