@@ -42,6 +42,7 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
   <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/Kaiming%20tightening%20a%20flange.png" width="400" height="300"><br/>
 <h4 align="center">
   I am tightening a flange. Thank Dr. Peter H. Jacobse for helping with the shoot.
+
 ```markdown
 10/2021-12/2021.                                 The Crommie Group, University of California, Berkeley
 Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
@@ -91,7 +92,7 @@ Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms."
 <h4 align="center">
 <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/z%3D0%20and%202D.png" width="220" height="220"> <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/z%3D0%20and%203D.png" width="220" height="220"> <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/y%3D0%20and%202d.png" width="220" height="220"> <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/y%3D0%20and%203D.png" width="220" height="220">
 <h4 align="center">
-Numerical simulation of Gaussian beam
+Numerical simulation for Gaussian beam
   
 ### Publication
 ```markdown
