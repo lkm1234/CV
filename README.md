@@ -99,20 +99,29 @@ Numerical simulation for Gaussian beam
 ### Publication
 ```markdown
 1. 刘铠铭, 周亚杰, 赵述敏, 王红理. 流体悬浮及其稳定性探究. 物理实验. 2021.           
-   (This is a Chinese Journal, and I am the first author. The Chinese name of this article is 流体悬浮及其稳定性探究, 
-   you can Control+C, Control+V, and search it in google scholar. You can find it, but this article requires a 
-   Chinese university's account to download. What's more, this paper only have a Chinese Version. So I use google 
+2. (the five-member rings work (in UC, Berkeley) is going to be submited to Nat. Commun or Science Advances)
+```
+
+```markdown
+  (The first paper is published in a Chinese Journal, and I am the first author. The English name of this paper 
+   is Fluid Suspension and its Stability ; The Chinese name of this paper is 流体悬浮及其稳定性探究 ; You can 
+   Control+C, Control+V, and search the paper's Chinese name in google scholar. You can find it, but this
+   paper requires a Chinese university's account to download. This paper is writen in Chinese, so I use google 
    translate to tralslate this article (maybe there are some grammatical mistake, but you can understand the main 
    work of this article), and I upload both Chinese version and English version in this CV website) This was my 
    first independent research, I start it in 2019(17 years old). I used almost one year to solve this question 
-   and do experiments (because the competition cycle is one year), and I used another one year to write paper, 
+   and do experiments (because the competition cycle is one year), and I used another one year to write this paper, 
    submited it to the Journal, and revised it. Many things were the first time for me to try, and the process was 
    very difficult and time-consuming. 
+   
    From my current perspective, the content of this article is very naive, and many methods are not rigorous. 
    However, this independent research process has greatly improved my scientific research ability, so that I have 
    been able to make a contribution to Prof. Crommie's Group in UC, Berkeley.)
-  
-2. (the five-member rings work (in UC, Berkeley) is going to be submited to Nat. Commun or Science Advances)
+   Chinese Version
+   English Version (The figures in the paper disappeared when I use google translate)
+   
+   some figures and experiments in this paper:
+   <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/z%3D0%20and%202D.png" width="220" height="220">
 ```
   
 
