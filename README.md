@@ -120,10 +120,10 @@ Numerical simulation for Gaussian beam
    Chinese Version
    English Version (The figures in the paper disappeared when I use google translate)
 ```
-some figures and experiments in this paper:
+some figures and experiments in 流体悬浮及其稳定性探究:
 <h4 align="center"> 
-<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="200" height="100">
-<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/water%20velocity%20field.png" width="200" height="100">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="400" height="300">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/water%20velocity%20field.png" width="400" height="300">
  
   
 
