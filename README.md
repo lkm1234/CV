@@ -135,15 +135,15 @@ some figures and experiments in 流体悬浮及其稳定性探究(Fluid Suspensi
 
 ### Selected honor
 ```markdown
-Northwestern area of China Undergrduate Physics tournament (The First Prize)                       06/2019
+China National Scholarship (top 1%).                                                               12/2021
+American Mathematical Contest in Modeling (Meritorious Winner, top 7%)                             04/2021
 China Undergraduate Physics Tournament (Outstanding Team: top 4 team of China)                     08/2019
+Northwestern area of China Undergrduate Physics tournament (The First Prize)                       06/2019
 Chinese Undergraduate Innovative Training Program                                                  08/2020
 Xi'an Jiaotong University Everest Scholarship (The Second Prize, 10%)                              09/2020
 Chinese Mathematical Contest in Modeling (The First Prize, 13%)                                    12/2020
 Outstanding Student of Xi'an Jiaotong University                                                   12/2020
-American Mathematical Contest in Modeling (Meritorious Winner, top 7% in the world)                04/2021
 Xi'an Jiaotong University Everest Scholarship (The First Prize, 2%)                                09/2021
-China National Scholarship (top 1%).                                                               12/2021
 Outstanding Student of Xi'an Jiaotong University                                                   12/2021
 Xi'an Jiaotong University's Academic Scholarship                                                   12/2021
 ```
