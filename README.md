@@ -105,8 +105,8 @@ Numerical simulation for Gaussian beam
    translate to tralslate this article (maybe there are some grammatical mistake, but you can understand the main 
    work of this article), and I upload both Chinese version and English version in this CV website) This was my 
    first independent research, I start it in 2019(17 years old). I used almost one year to solve this question 
-   and do experiments (because the competition cycle is one year), and I use another one year to write paper, 
-   submit it to the Journal, and revise it. Many things are the first time for me to try, and the process is 
+   and do experiments (because the competition cycle is one year), and I used another one year to write paper, 
+   submited it to the Journal, and revised it. Many things were the first time for me to try, and the process was 
    very difficult and time-consuming. 
    From my current perspective, the content of this article is very naive, and many methods are not rigorous. 
    However, this independent research process has greatly improved my scientific research ability, so that I have 
