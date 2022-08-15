@@ -122,9 +122,12 @@ Numerical simulation for Gaussian beam
 ```
 some figures and experiments in 流体悬浮及其稳定性探究:
 <h4 align="center"> 
-<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="400" height="300">
-<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/water%20velocity%20field.png" width="400" height="300">
- 
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="300" height="225">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/water%20velocity%20field.png" width="300" height="225">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/weight%20strikes%20cylinder.png" width="300" height="225">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/weight%20strikes%20sphere.png" width="300" height="225">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/change%20the%20exit%20angle(cylinder).png" width="300" height="225">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/change%20the%20exit%20angle(sphere).png" width="300" height="225">
   
 
 ### Selected honor
