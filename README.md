@@ -119,10 +119,12 @@ Numerical simulation for Gaussian beam
    been able to make a contribution to Prof. Crommie's Group in UC, Berkeley.)
    Chinese Version
    English Version (The figures in the paper disappeared when I use google translate)
-   
-   some figures and experiments in this paper:
-   <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/z%3D0%20and%202D.png" width="220" height="220">
 ```
+some figures and experiments in this paper:
+<h4 align="center"> 
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="200" height="100">
+<img src="https://github.com/lkm1234/CV/blob/gh-pages/images/water%20velocity%20field.png" width="200" height="100">
+ 
   
 
 ### Selected honor
