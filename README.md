@@ -105,20 +105,21 @@ Numerical simulation for Gaussian beam
 ```markdown
   (The first paper is published in a Chinese Journal, and I am the first author. The English name of this paper 
    is Fluid Suspension and its Stability ; The Chinese name of this paper is 流体悬浮及其稳定性探究 ; You can 
-   Control+C, Control+V, and search the paper's Chinese name in google scholar. You can find it, but this
+   Control+C, Control+V, and search the Chinese name of this paper in google scholar. You can find it, but this
    paper requires a Chinese university's account to download. This paper is writen in Chinese, so I use google 
-   translate to tralslate this article (maybe there are some grammatical mistake, but you can understand the main 
+   translate to tralslate this paper (maybe there are some grammatical mistake, but you can understand the main 
    work of this article), and I upload both Chinese version and English version in this CV website) This was my 
    first independent research, I start it in 2019(17 years old). I used almost one year to solve this question 
-   and do experiments (because the competition cycle is one year), and I used another one year to write this paper, 
-   submited it to the Journal, and revised it. Many things were the first time for me to try, and the process was 
-   very difficult and time-consuming. 
+   and do experiments, and I used another one year to write this paper, submited it to the Journal, and revised 
+   it. Many things were the first time for me to try, and the process was very difficult and time-consuming. 
    
    From my current perspective, the content of this article is very naive, and many methods are not rigorous. 
    However, this independent research process has greatly improved my scientific research ability, so that I have 
    been able to make a contribution to Prof. Crommie's Group in UC, Berkeley.)
-   Chinese Version
-   English Version (The figures in the paper disappeared when I use google translate)
+   links:
+   [Chinese Version](https://github.com/lkm1234/CV/blob/gh-pages/Chinese%20Version%E6%B5%81%E4%BD%93%E6%82%AC%E6%B5%AE%E5%8F%8A%E5%85%B6%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%8E%A2%E7%A9%B6_%E5%88%98%E9%93%A0%E9%93%AD(Fluid%20Suspension%20and%20its%20stability).pdf)
+   [English Version](https://github.com/lkm1234/CV/blob/gh-pages/English%20Version%E6%B5%81%E4%BD%93%E6%82%AC%E6%B5%AE%E5%8F%8A%E5%85%B6%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%8E%A2%E7%A9%B6_%E5%88%98%E9%93%A0%E9%93%AD%20(Fluid%20Suspension%20and%20its%20stability).pdf)
+    
 ```
 some figures and experiments in 流体悬浮及其稳定性探究:
 <h4 align="center"> 
