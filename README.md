@@ -115,12 +115,11 @@ Numerical simulation for Gaussian beam
    
    From my current perspective, the content of this article is very naive, and many methods are not rigorous. 
    However, this independent research process has greatly improved my scientific research ability, so that I have 
-   been able to make a contribution to Prof. Crommie's Group in UC, Berkeley.)
-   links:
+   been able to make a contribution to Prof. Crommie's Group in UC, Berkeley.)    
+```
+links:
    [Chinese Version](https://github.com/lkm1234/CV/blob/gh-pages/Chinese%20Version%E6%B5%81%E4%BD%93%E6%82%AC%E6%B5%AE%E5%8F%8A%E5%85%B6%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%8E%A2%E7%A9%B6_%E5%88%98%E9%93%A0%E9%93%AD(Fluid%20Suspension%20and%20its%20stability).pdf)
    [English Version](https://github.com/lkm1234/CV/blob/gh-pages/English%20Version%E6%B5%81%E4%BD%93%E6%82%AC%E6%B5%AE%E5%8F%8A%E5%85%B6%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%8E%A2%E7%A9%B6_%E5%88%98%E9%93%A0%E9%93%AD%20(Fluid%20Suspension%20and%20its%20stability).pdf)
-    
-```
 some figures and experiments in 流体悬浮及其稳定性探究:
 <h4 align="center"> 
 <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="300" height="225">
