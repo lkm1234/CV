@@ -123,7 +123,7 @@ links:
   
    [English Version 流体悬浮及其稳定性探究 (Fluid Suspension and Its Stability)](https://github.com/lkm1234/CV/blob/gh-pages/English%20Version%E6%B5%81%E4%BD%93%E6%82%AC%E6%B5%AE%E5%8F%8A%E5%85%B6%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%8E%A2%E7%A9%B6_%E5%88%98%E9%93%A0%E9%93%AD%20(Fluid%20Suspension%20and%20its%20stability).pdf)
   
-some figures and experiments in 流体悬浮及其稳定性探究:
+some figures and experiments in 流体悬浮及其稳定性探究(Fluid Suspension and Its Stability):
 <h4 align="center"> 
 <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/suspended%20model.png" width="300" height="225">
 <img src="https://github.com/lkm1234/CV/blob/gh-pages/images/water%20velocity%20field.png" width="300" height="225">
