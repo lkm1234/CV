@@ -22,9 +22,11 @@
 
 ### Academic Performance 
 ```markdown
-Xi'an Jiaotong University   : GPA(total): 3.75/ 4 (3.87 / 4.3) | Avg Score: 90.28/ 100 | GPA Rank: 2/ 49 | TOEFL: 102 ( R28, L28, S23, W23 )
-                              GPA(major): 3.81/ 4 (3.93 / 4.3) 
-UC, Berkeley                : GPA:   4 / 4              | Avg level: A  
+                              TOEFL: 102 ( R28, L28, S23, W23 )
+Xi'an Jiaotong University   : GPA(total): 3.75/ 4 (3.87 / 4.3) | Avg Score: 90.28/ 100 | GPA Rank: 2/ 49 | 
+                              GPA(major): 3.80/ 4 (3.93 / 4.3) 
+
+UC, Berkeley                : GPA       :   4 / 4              | Avg level: A  
 
 Core Courses in University of California, Berkeley: 
 Quantum Mechanics (A+)                                                 Teacher: Professor Wick Haxton 
