@@ -22,7 +22,7 @@
 
 ### Academic Performance 
 ```markdown
-                              TOEFL: 108 ( R28, L26, S25, W29 )
+                              TOEFL     : 108 (Reading: 28, Listening: 26, Speaking: 25, Writing: 29)
 Xi'an Jiaotong University   : GPA(total): 3.75/ 4 (3.87 / 4.3) | Avg Score: 90.28/ 100 | GPA Rank: 2/ 49 | 
                               GPA(major): 3.80/ 4 (3.93 / 4.3) 
 
