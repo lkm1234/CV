@@ -24,7 +24,7 @@
 ```markdown
                               TOEFL     : 108 (Reading: 28, Listening: 26, Speaking: 25, Writing: 29)
 Xi'an Jiaotong University   : GPA(total): 3.77/ 4 (3.89 / 4.3) | Avg Score: 90.46/ 100 | GPA(major): 3.80/ 4 (3.93 / 4.3)
-                             GPA Rank: 2/ 49 (Honors Science Program); 2/200 (School of Physics) 
+                              GPA Rank: 2/ 49 (Honors Science Program); 2/200 (School of Physics) 
                                
 
 UC, Berkeley                : GPA       :   4 / 4              | Avg level: A  
@@ -49,8 +49,23 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
 </h4>
   
 ```markdown
-10/2021-12/2021.                                 The Crommie Group, University of California, Berkeley
-Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi Wang
+Oct 2021 – Dec 2021			Crommie’s Group, Department of Physics                                       
+Research Assistant, Advisors: Prof. Michael Crommie, Dr. Peter Jacobse & Graduate student Ziyi Wang
+Project 1: “Daisy Chain” on Au(111) surface
+Description: Studied the behavior of the magnetic ground state of dibenzoquateranthene (DBQA) on a gold surface with scanning tunneling microscopy (STM). 
+    I learned to use Matrix-Assisted Direct (MAD) Transfer and Bottom-Up Approach to achieve an on-surface synthesis of poly-DBQA from precursor iodophenyl-bromobianthryl (PBA).
+	  With the help of Ziyi and Peter, I mastered many experimental skills of Scanning Probe Measurements, such as annealing, sputtering, transferring samples, refilling liquid Helium and Liquid Nitrogen
+    I learned to use software to control STM to get topographic images of poly-DBQA chains on the nanometer scale. (“Daisy Chain”)
+Project 2: Five-fold structure on Au(111) surface
+Description: Proposed a method for synthesizing five-fold structures on a gold surface.
+    I learned to use the Evaporation method and Bottom-Up approach to synthesize five-fold structures from five-membered ring molecules.
+    I collaborated with Ziyi to get topographic images of five-point star structures by STM.
+Project 3: Single strands of deoxyribonucleic acid (DNA) on Au(111) surface
+Description: Studied the behavior and structure of single strands of DNA on a gold surface with STM.
+    I finished MAD Transfer independently to achieve the on-surface synthesis of single strands of DNA.
+    I collaborated with Peter to get topographic images of single strands of DNA by STM.
+
+    If your are interested in these projects, we can have schedule a zoom meeting to have a chat.
 
 1. Contributed to a team of researhers aiming to use Scanning Tunneling Microscopy to analyze Graphene
    nanoribbons to look for their interesting physical properties.
@@ -70,11 +85,8 @@ Mentor: Professor Michael F. Crommie, Dr. Peter Jacobse, Graduate student Ziyi W
    repairing the tip to get higher resolution images.
 3. I helped Graduate Ziyi Wang to do some data analysis work. I use python to analyze experimental data
    and make plots.
-4. project1-five-member rings: want to achieve five fold structure (My colleague, Dr. Peter H. Jacobse, 
-   put my name on the paper. He is going to submit this paper to Nat. Commun Or Science Advances soon)
-   project2-DNA molecules: want to achieve the ordered synthesis of GNR
-   project3-a New Chervon type Graphene nanoribbon: want to achieve programmable fabrication of GNR
-   If your are interested in these projects, we can have schedule a zoom meeting to have a chat.
+               
+
 ```
 #### Research in Xi'an Jiaotong University
 ```markdown
