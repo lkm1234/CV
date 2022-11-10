@@ -23,8 +23,9 @@
 ### Academic Performance 
 ```markdown
                               TOEFL     : 108 (Reading: 28, Listening: 26, Speaking: 25, Writing: 29)
-Xi'an Jiaotong University   : GPA(total): 3.75/ 4 (3.87 / 4.3) | Avg Score: 90.28/ 100 | GPA Rank: 2/ 49 | 
-                              GPA(major): 3.80/ 4 (3.93 / 4.3) 
+Xi'an Jiaotong University   : GPA(total): 3.77/ 4 (3.89 / 4.3) | Avg Score: 90.46/ 100 | GPA(major): 3.80/ 4 (3.93 / 4.3)
+                             GPA Rank: 2/ 49 (Honors Science Program); 2/200 (School of Physics) 
+                               
 
 UC, Berkeley                : GPA       :   4 / 4              | Avg level: A  
 
