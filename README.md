@@ -55,23 +55,23 @@ Research Assistant, Advisors: Prof. Michael Crommie, Dr. Peter Jacobse & Graduat
 Project 1: “Daisy Chain” on Au(111) surface
 Description: Studied the behavior of the magnetic ground state of dibenzoquateranthene (DBQA) on a 
 	     gold surface with scanning tunneling microscopy (STM). 
-   1. I learned to use Matrix-Assisted Direct (MAD) Transfer and Bottom-Up Approach to achieve an 
-      on-surface synthesis of poly-DBQA from precursor iodophenyl-bromobianthryl (PBA).
-   2. With the help of Ziyi and Peter, I mastered many experimental skills of Scanning Probe Measurements, 
-      such as annealing, sputtering, transferring samples, refilling liquid Helium and Liquid Nitrogen
-   3. I learned to use software to control STM to get topographic images of poly-DBQA chains on the 
-      nanometer scale. (“Daisy Chain”)
+   	1. I learned to use Matrix-Assisted Direct (MAD) Transfer and Bottom-Up Approach to achieve an 
+      	   on-surface synthesis of poly-DBQA from precursor iodophenyl-bromobianthryl (PBA).
+   	2. With the help of Ziyi and Peter, I mastered many experimental skills of Scanning Probe Measurements, 
+      	   such as annealing, sputtering, transferring samples, refilling liquid Helium and Liquid Nitrogen
+   	3. I learned to use software to control STM to get topographic images of poly-DBQA chains on the 
+           nanometer scale. (“Daisy Chain”)
 	
 Project 2: Five-fold structure on Au(111) surface
 Description: Proposed a method for synthesizing five-fold structures on a gold surface.
-   1. I learned to use the Evaporation method and Bottom-Up approach to synthesize five-fold structures 
-      from five-membered ring molecules.
-   2. I collaborated with Ziyi to get topographic images of five-point star structures by STM.
+   	1. I learned to use the Evaporation method and Bottom-Up approach to synthesize five-fold structures 
+      	   from five-membered ring molecules.
+   	2. I collaborated with Ziyi to get topographic images of five-point star structures by STM.
 	
 Project 3: Single strands of deoxyribonucleic acid (DNA) on Au(111) surface
 Description: Studied the behavior and structure of single strands of DNA on a gold surface with STM.
-   1. I finished MAD Transfer independently to achieve the on-surface synthesis of single strands of DNA.
-   2. I collaborated with Peter to get topographic images of single strands of DNA by STM.
+   	1. I finished MAD Transfer independently to achieve the on-surface synthesis of single strands of DNA.
+   	2. I collaborated with Peter to get topographic images of single strands of DNA by STM.
 
    If your are interested in these projects, we can have schedule a zoom meeting to have a chat.
 
@@ -91,7 +91,6 @@ Description: Studied the behavior and structure of single strands of DNA on a go
    using mechanic pump, turbo pump and ion pump to get ultra high vacuum, 
    using bottom-up approach and MAD method to make Graphene nanoribbon samples, 
    baking the Scanning Tunneling Microscopy system to remove impurity molecules, 
-   
    
    
    I was also responsibile for some data analysis work. I used python to help Ziyi to analyze experimental data
@@ -119,7 +118,7 @@ Description Proposed a method for achieving qubit by taking advantage of the lon
   
 Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms." Physical Review A 82.3 (2010): 033412. 
   
-3. Recent work: I am going to deriving the dark state of Multi-Rydberg-atom system, and plug this dark 
+   Recent work: I am going to deriving the dark state of Multi-Rydberg-atom system, and plug this dark 
    state into Maxwell Bloch Equation, then we can get the space-time evolution equation of the dark state. 
    By numerically solving the difference equation, we can get the evolution image of the dark state over 
    time and space. We expect to get lower lateral diffusion and higher transmittance by adjusting parameters 
