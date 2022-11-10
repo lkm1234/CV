@@ -51,52 +51,71 @@ Contemporary Physics Experiment (98/100), Methods of Mathematical Physics (91/10
 ```markdown
 Oct 2021 – Dec 2021			Crommie’s Group, Department of Physics                                       
 Research Assistant, Advisors: Prof. Michael Crommie, Dr. Peter Jacobse & Graduate student Ziyi Wang
+
 Project 1: “Daisy Chain” on Au(111) surface
-Description: Studied the behavior of the magnetic ground state of dibenzoquateranthene (DBQA) on a gold surface with scanning tunneling microscopy (STM). 
-    I learned to use Matrix-Assisted Direct (MAD) Transfer and Bottom-Up Approach to achieve an on-surface synthesis of poly-DBQA from precursor iodophenyl-bromobianthryl (PBA).
-	  With the help of Ziyi and Peter, I mastered many experimental skills of Scanning Probe Measurements, such as annealing, sputtering, transferring samples, refilling liquid Helium and Liquid Nitrogen
-    I learned to use software to control STM to get topographic images of poly-DBQA chains on the nanometer scale. (“Daisy Chain”)
+Description: Studied the behavior of the magnetic ground state of dibenzoquateranthene (DBQA) on a 
+	     gold surface with scanning tunneling microscopy (STM). 
+   1. I learned to use Matrix-Assisted Direct (MAD) Transfer and Bottom-Up Approach to achieve an 
+      on-surface synthesis of poly-DBQA from precursor iodophenyl-bromobianthryl (PBA).
+   2. With the help of Ziyi and Peter, I mastered many experimental skills of Scanning Probe Measurements, 
+      such as annealing, sputtering, transferring samples, refilling liquid Helium and Liquid Nitrogen
+   3. I learned to use software to control STM to get topographic images of poly-DBQA chains on the 
+      nanometer scale. (“Daisy Chain”)
+	
 Project 2: Five-fold structure on Au(111) surface
 Description: Proposed a method for synthesizing five-fold structures on a gold surface.
-    I learned to use the Evaporation method and Bottom-Up approach to synthesize five-fold structures from five-membered ring molecules.
-    I collaborated with Ziyi to get topographic images of five-point star structures by STM.
+   1. I learned to use the Evaporation method and Bottom-Up approach to synthesize five-fold structures 
+      from five-membered ring molecules.
+   2. I collaborated with Ziyi to get topographic images of five-point star structures by STM.
+	
 Project 3: Single strands of deoxyribonucleic acid (DNA) on Au(111) surface
 Description: Studied the behavior and structure of single strands of DNA on a gold surface with STM.
-    I finished MAD Transfer independently to achieve the on-surface synthesis of single strands of DNA.
-    I collaborated with Peter to get topographic images of single strands of DNA by STM.
+   1. I finished MAD Transfer independently to achieve the on-surface synthesis of single strands of DNA.
+   2. I collaborated with Peter to get topographic images of single strands of DNA by STM.
 
-    If your are interested in these projects, we can have schedule a zoom meeting to have a chat.
+   If your are interested in these projects, we can have schedule a zoom meeting to have a chat.
 
-1. Contributed to a team of researhers aiming to use Scanning Tunneling Microscopy to analyze Graphene
-   nanoribbons to look for their interesting physical properties.
-2. Mastered many experiment skills such as 
-   using bottom-up approach and MAD method to make Graphene nanoribbon samples, 
-   transfering samples,
+
+   I mastered many experiment skills such as 
+   
    annealing, 
    sputtering, 
    deposition, 
+   transfering samples,
    hot substrate deposition, 
    loading molecules into the evaporator, 
-   evaporating molecules onto the surface of sample, 
-   using mechanic pump, turbo pump and ion pump to get ultra high vacuum, 
-   baking the Scanning Tunneling Microscopy system to remove impurity molecules, 
-   refilling liquid Helium and liquid Nitrogen, 
    using STM to scan the Graphene nanoribons, 
-   repairing the tip to get higher resolution images.
-3. I helped Graduate Ziyi Wang to do some data analysis work. I use python to analyze experimental data
+   refilling liquid Helium and liquid Nitrogen,
+   evaporating molecules onto the surface of sample, 
+   repairing the tip to get higher resolution images,
+   using mechanic pump, turbo pump and ion pump to get ultra high vacuum, 
+   using bottom-up approach and MAD method to make Graphene nanoribbon samples, 
+   baking the Scanning Tunneling Microscopy system to remove impurity molecules, 
+   
+   
+   
+   I was also responsibile for some data analysis work. I used python to help Ziyi to analyze experimental data
    and make plots.
                
 
 ```
 #### Research in Xi'an Jiaotong University
 ```markdown
-03/2022-Now                                   Prof. Yongchang Zhang's Group, Xi'an Jiaotong University 
-Mentor: Professor Yongchang Zhang, Graduate Rong Ma 
-  
-1. Contributed to a team of researchers aming to use Rydberg atoms to achieve the function of qubit. 
-2. I derived  Multi-Rydberg-atom system interaction Hamiltonian matrices, and I used Matlab to solve the 
-   eigenvalues, eigenvectors, and the final drawing Energy-distance picture of this system, which 
-   reproduced the results of Soft Core in this paper: 
+Mar 2022 – Nov 2022			Q_M Q_I C_A Group, School of Physics                                            
+Research Assistant, Advisors: Prof. Yongchang Zhang & Graduate student Rong Ma
+Project 1: Rydberg atoms and Quantum Information 
+Description Proposed a method for achieving qubit by taking advantage of the long life span of Rydberg atoms. 
+	1. I used the Heisenberg Equation and Group Operators for deducing the Hamiltonian matrix of 
+	   the Rydberg-Atomic System.
+	2. I used MATLAB to solve eigenvalues and eigenstates of the Hamiltonian matrix showing the 
+	   expression of dark-state polariton.
+	3. I achieved numerical simulation of Gaussian beam and Gaussian wave packets in the Rydberg 
+	   atomic system under dark state polariton conditions.
+
+
+   I also derived  Multi-Rydberg-atom system interaction Hamiltonian matrices, and I used Matlab to 
+   solve the eigenvalues, eigenvectors, and the final drawing Energy-distance picture of this system, 
+   which reproduced the results of Soft Core in this paper: 
   
 Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms." Physical Review A 82.3 (2010): 033412. 
   
@@ -114,8 +133,12 @@ Numerical simulation for Gaussian beam
 
 ### Publication
 ```markdown
-1. 刘铠铭, 周亚杰, 赵述敏, 王红理. 流体悬浮及其稳定性探究. 物理实验. 2021.           
-2. (the five-member rings work (in UC, Berkeley) is going to be submited to Nat. Commun or Science Advances)
+1  Kaiming Liu, Yajie Zhou, Shumin Zhao, Hongli Wang. Fluid suspension and its stability[J]. 
+   Physics Experimentation, 2021, 41(03): 46-53+58. DOI:10.19655/j.cnki.1005-4642.2021.03.010.
+2  Peter H. Jacobse†║#, Michael C. Daugherty‡#, Kristiāns Čerņevičs§^#, Ziyi Wang†║, Ryan D. McCurdy‡, 
+   Reis Dorit‡, Kaiming Liu†, Jiaming Lu†, Oleg V. Yazyev§^*, Felix R. Fischer‡║∇*, Michael F. Crommie†║∇*. 
+   Decoupling localized modes in nanographenes. Manuscript in preparation.
+
 ```
 
 ```markdown
@@ -151,17 +174,14 @@ some figures and experiments in 流体悬浮及其稳定性探究(Fluid Suspensi
 
 ### Selected honor
 ```markdown
-China National Scholarship (top 1%).                                                               12/2021
-American Mathematical Contest in Modeling (Meritorious Winner, top 7%)                             04/2021
-China Undergraduate Physics Tournament (Outstanding Team: top 4 team of China)                     08/2019
-Northwestern area of China Undergrduate Physics tournament (The First Prize)                       06/2019
-Chinese Undergraduate Innovative Training Program                                                  08/2020
-Xi'an Jiaotong University Everest Scholarship (The Second Prize, 10%)                              09/2020
-Chinese Mathematical Contest in Modeling (The First Prize, 13%)                                    12/2020
-Outstanding Student of Xi'an Jiaotong University                                                   12/2020
-Xi'an Jiaotong University Everest Scholarship (The First Prize, 2%)                                09/2021
-Outstanding Student of Xi'an Jiaotong University                                                   12/2021
-Xi'an Jiaotong University's Academic Scholarship                                                   12/2021
+2018 China Undergraduate Physics Tournament XJTU Selection Competition (The Frist Price, 5%)                     
+2019 China Undergraduate Physics Tournament Northwest Division (The First Prize, 1%)                            
+2019 China Undergraduate Physics Tournament Finals (Grand Price, Top four teams of China, < 0.1%)      
+2020 Mathematical Contest in Modeling in China, Shannxi Division (The First Prize, 1%)                             
+2020 Xi’an Jiaotong Academic Scholarship (Awarded to undergraduates with great performance in research)     
+2021 Mathematical Contest in Modeling (Meritorious Winner, Top 7% of 20,000 teams worldwide)     
+2020, 2021 Everest Scholarship, Xi’an Jiaotong University (Highest Honor in the School of Physics, 1%)  
+2021 National Scholarship (Highest scholarship awarded by the Chinese government, <0.1%)
 ```
   
 ### Skills and Qualifications 
@@ -176,7 +196,7 @@ Xi'an Jiaotong University's Academic Scholarship                                
   
 ### Interests and hobbies
 ```markdown
--Rubik's cube (semi-professional level) 
+-Rubik's cube (semi-professional level)  3*3 single best:10s; avg best: 12s.
 -table tennis 
 -jogging 
 ```
