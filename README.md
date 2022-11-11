@@ -113,7 +113,7 @@ Description Proposed a method for achieving qubit by taking advantage of the lon
 
 
    I also derived  Multi-Rydberg-atom system interaction Hamiltonian matrices, and I used Matlab to 
-   solve the eigenvalues, eigenvectors, and the final drawing Energy-distance picture of this system, 
+   solve the eigenvalues, eigenvectors, and finally drawing Energy-distance picture of this system, 
    which reproduced the results of Soft Core in this paper: 
   
 Johnson, J. E., and S. L. Rolston. "Interactions between Rydberg-dressed atoms." Physical Review A 82.3 (2010): 033412. 
