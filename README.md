@@ -134,8 +134,8 @@ Numerical simulation for Gaussian beam
 ```markdown
 1  Kaiming Liu, Yajie Zhou, Shumin Zhao, Hongli Wang. Fluid suspension and its stability[J]. 
    Physics Experimentation, 2021, 41(03): 46-53+58. DOI:10.19655/j.cnki.1005-4642.2021.03.010.
-2  Peter H. Jacobse†║#, Michael C. Daugherty‡#, Kristiāns Čerņevičs§^#, Ziyi Wang†║, Ryan D. McCurdy‡, 
-   Reis Dorit‡, Kaiming Liu†, Jiaming Lu†, Oleg V. Yazyev§^*, Felix R. Fischer‡║∇*, Michael F. Crommie†║∇*. 
+2  Peter H. Jacobse, Michael C. Daugherty, Kristiāns Čerņevičs, Ziyi Wang, Ryan D. McCurdy, 
+   Reis Dorit, Kaiming Liu, Jiaming Lu, Oleg V. Yazyev, Felix R. Fischer, Michael F. Crommie. 
    Decoupling localized modes in nanographenes. Manuscript in preparation.
 
 ```
