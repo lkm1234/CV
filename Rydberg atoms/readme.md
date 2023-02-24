@@ -13,7 +13,6 @@ Situation 1: One-dimensional two-photon system; One of the photons is fixed and 
 xlabel: the location of the first photon
 ylabel: the location of the second photon
 
-
 Situation 2: One-dimensional two-photon system; Both photons move.
 xlabel: the location of the first photon
 ylabel: the location of the second photon
