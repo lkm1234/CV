@@ -1,8 +1,9 @@
+```markdown
 Research Project: Photon-Photon Interactions via Rydberg Blockade            
 Advisor: Prof. Yongchang Zhang
 Xi'an Jiaotong University
-```markdown
-There is no interaction between photons in vacuum, and the indirect interaction between photons is produced by coupling Rydberg atoms with photons.
+
+Description: There is no interaction between photons in vacuum, and the indirect interaction between photons is produced by coupling Rydberg atoms with photons.
 Here, I used MATLAB to simulate the interaction between photons induced by Rydberg atoms, and completed the time evolution simulation.
 You can find my coding work in this file, too!!!(such as:blablablabla.m) Please feel free to email me if you have any problems or suggestions!!!
 
