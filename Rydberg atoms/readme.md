@@ -12,6 +12,7 @@ Each Rydberg atom couples a photon，the initial state satisfies the Gaussian di
 Situation 1: One-dimensional two-photon system; One of the photons is fixed and another one moves toward the first one.
 xlabel: the location of the first photon
 ylabel: the location of the second photon
+you can find the simulation video through this link: [onedimensional_dualphotons_onemove](https://github.com/lkm1234/CV/blob/gh-pages/Rydberg%20atoms/onedimensional_dualphotons_onemove.mp4)
 
 Situation 2: One-dimensional two-photon system; Both photons move.
 xlabel: the location of the first photon
@@ -32,4 +33,3 @@ x1 and y1: the location of the first photon
 x2 and y2: the location of the second photon
 Still in progress......
 ```
-<img src="https://github.com/lkm1234/CV/blob/gh-pages/Rydberg%20atoms/onedimensional_dualphotons_onemove.mp4" width="300" height="225">
