@@ -40,4 +40,6 @@ Situation 5: two-dimensional two-photon system; one photon fixed while another o
 x1 and y1: the location of the first photon
 x2 and y2: the location of the second photon
 Still in progress......
+
+Due to the indirect interaction between photons, the phase of photons will change during the propagation process. Our ultimate goal is to realize the function of quantum logic gate through the change of photon phase.
 ```
